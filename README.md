@@ -13,6 +13,5 @@
 
 ## Showcase:
 ![Showcase2](https://i.imgur.com/C3chg8O.png)
-![Showcase](https://wheres-my-ta.co/CFC3a5.gif)
 
 `WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
